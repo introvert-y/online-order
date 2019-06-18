@@ -8,7 +8,7 @@
 
 库的执行环境去执行创建数据库操作，若你的数据库名称不是sale_data需要在大概18行的位置把USE `sale_data`改为你的数据库名称;
 
-导入成功后在server文件夹下的db.js，把database=‘sale.data’改为你的数据库名称。
+导入成功后在server文件夹下的db.js，把database=‘sale_data’改为你的数据库名称。
 
 然后执行在server文件下执行node index.js
 
