@@ -1,9 +1,14 @@
+
+
 # online-order
 
-> A Vue.js project
+> A Vue.js project 需要用到node的express框架和mysql
+
+#首先导入sale_data.sql数据表导入到你的sql，这里推荐使用sql可视化工具SQLyog
+
+导入成功后在server文件夹下的db.js，把database=‘sale.data’改为你的数据库名称
 
 ## Build Setup
-
 ``` bash
 # install dependencies
 npm install
