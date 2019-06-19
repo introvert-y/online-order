@@ -27,4 +27,4 @@ npm run dev
 
 大致效果如图所示，购物流程还未演示 
 ![image](http://github.com/introvert-y/online-order/blob/master/images.gif)
-https://github.com/introvert-y/online-order/raw/master/images.gif
+
