@@ -26,5 +26,5 @@ npm run dev
 该项目实现了移动端适配，大家可以在项目打开后，切换相应的移动设备或者responsive自行拖拽页面大小
 
 大致效果如图所示，购物流程还未演示 
-![image](https://github.com/introvert-y/online-order/blob/master/images.gif)
+！[image](https://github.com/introvert-y/online-order/blob/master/images.gif)
 https://github.com/introvert-y/online-order/raw/master/images.gif
