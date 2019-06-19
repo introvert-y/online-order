@@ -12,6 +12,9 @@
 
 然后执行在server文件下执行node index.js
 
+
+![image](https://github.com/introvert-y/online-order/raw/master/images.gif)
+
 ## Build Setup
 ``` bash
 # install dependencies安装依赖
@@ -27,6 +30,4 @@ npm run dev
 
 大致效果如图所示，购物流程还未演示 
 ![image](https://github.com/introvert-y/online-order/raw/master/images/image.gif)
-
-![image](https://github.com/introvert-y/online-order/raw/master/images.gif)
 
