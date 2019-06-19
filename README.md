@@ -28,4 +28,4 @@ npm run dev
 大致效果如图所示，购物流程还未演示 
 ![image](https://github.com/introvert-y/online-order/blob/master/images/image.gif)
  ![img](https://github.com/introvert-y/online-order/blob/master/images/image.gif)
-
+![image](https://github.com/introvert-y/online-order/raw/master/images/image.gif)
