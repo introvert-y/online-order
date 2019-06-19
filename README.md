@@ -12,6 +12,9 @@
 
 然后执行在server文件下执行node index.js
 
+该项目实现了移动端适配，大家可以在项目打开后，切换相应的移动设备或者responsive自行拖拽页面大小
+
+大致效果如图所示，购物流程还未演示 
 
 ![image](https://github.com/introvert-y/online-order/raw/master/images.gif)
 
@@ -26,8 +29,6 @@ npm run dev
 商家的账号为user 密码为123456
 顾客的账号为wu7276 密码为123456
 
-该项目实现了移动端适配，大家可以在项目打开后，切换相应的移动设备或者responsive自行拖拽页面大小
 
-大致效果如图所示，购物流程还未演示 
-![image](https://github.com/introvert-y/online-order/raw/master/images/image.gif)
+
 
